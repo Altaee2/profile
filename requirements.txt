@@ -1,0 +1,5 @@
+gunicorn
+telethon
+pytz
+requests
+yt-dlp
